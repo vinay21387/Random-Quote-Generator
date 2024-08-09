@@ -10,9 +10,6 @@ Welcome to the Random Quote Generator project! This web application allows users
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Demo
 
