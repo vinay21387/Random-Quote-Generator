@@ -1,5 +1,3 @@
-# Random-Quote-Generator
-Here's a comprehensive README file for your Random Quote Generator project, which you can use on GitHub. This README includes sections for project overview, features, installation, usage, and more:
 # Random Quote Generator
 
 Welcome to the Random Quote Generator project! This web application allows users to explore and enjoy a collection of quotes from different categories. Users can generate random quotes, filter by category, copy quotes to the clipboard, and manage their favorite quotes.
