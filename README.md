@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/vinay21387/random-quote-generator.git
    cd random-quote-generator
 
-2. **Open index.html:
+2. **Open index.html:**
 Open the index.html file in your preferred web browser to see the app in action.
 
 ## Usage
