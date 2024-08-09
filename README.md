@@ -11,7 +11,7 @@ Welcome to the Random Quote Generator project! This web application allows users
 
 ## Demo
 
-You can see the live version of the project [here](https://your-live-link.com).
+You can see the live version of the project [here](https://vinay21387.github.io/Random-Quote-Generator/).
 
 ## Features
 
