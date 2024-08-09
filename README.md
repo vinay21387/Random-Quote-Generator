@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 2. Open index.html:
 Open the index.html file in your preferred web browser to see the app in action.
 
-Usage
+## Usage
 1. Select a Category: Use the dropdown to choose a category of quotes.
 2. Generate a Quote: Click the "New Quote" button to get a random quote.
 3. Copy a Quote: Click the "Copy" button to copy the current quote to your clipboard.
