@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vinay21387/random-quote-generator.git
+   git clone https://github.com/vinay21387/Random-Quote-Generator.git
    cd random-quote-generator
 
 2. **Open index.html:**
